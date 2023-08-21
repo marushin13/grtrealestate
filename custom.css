@@ -16,16 +16,16 @@
 }
 
 .iti__selected-flag {
-	padding-bottom: 0.5vw!important;
-    	padding-left: 0!important;
+	padding-bottom: 0.5vw !important;
+	padding-left: 0 !important;
 }
 
 .iti__selected-flag:hover {
-	background: none!important;
+	background: none !important;
 }
 
 .iti__country-list {
-	z-index:4!important;
+	z-index:4 !important;
 }
 
 @media screen and (max-width: 479px) {
@@ -38,12 +38,12 @@
 @media screen and (max-width: 767px) {
 	.iti--allow-dropdown input,
 	.iti--allow-dropdown input[type=tel],
-    	.iti--allow-dropdown input[type=text],
-    	.iti--separate-dial-code input,
-    	.iti--separate-dial-code input[type=tel],
-    	.iti--separate-dial-code input[type=text] {
+	.iti--allow-dropdown input[type=text],
+    .iti--separate-dial-code input,
+    .iti--separate-dial-code input[type=tel],
+    .iti--separate-dial-code input[type=text] {
 		padding-left: 45px;
-    	}
+	}
 }
 
 @media screen and (min-width:768px)and (max-width: 1439px) {
