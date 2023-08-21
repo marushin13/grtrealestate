@@ -1,3 +1,8 @@
+.clear_phone-embed {
+	color: #3f424b;
+	display: none
+}
+
 .iti {
     width: 100%;
 }
@@ -62,9 +67,4 @@
     .iti--separate-dial-code input[type=text] {
         padding-left: 50px;
     }
-}
-
-.clear_phone-embed {
-    color: #3f424b;
-    display: none
 }
